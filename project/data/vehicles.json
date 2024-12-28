@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Audi new",
+        "type": "Audi",
+        "price": "20456123",
+        "image": "https:\/\/www.cardekho.com.bd\/public\/image\/images\/image\/large_image\/Audi%20Q7.jpg"
+    },
+    {
+        "name": "Suzuki new",
+        "type": "Suzuki",
+        "price": "1700000",
+        "image": "https:\/\/www.cardekho.com.bd\/public\/image\/images\/image\/large_image\/Suzuki%20Dzire.jpg"
+    }
+]
